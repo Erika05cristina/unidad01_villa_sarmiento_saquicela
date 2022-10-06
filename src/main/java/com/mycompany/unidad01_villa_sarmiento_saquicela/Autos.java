@@ -10,7 +10,9 @@ package com.mycompany.unidad01_villa_sarmiento_saquicela;
  * @author Kristina
  */
 public class Autos {
+    /*
     String marca;
     int an;
-    String modelo;
+    String modelo;*/
+    
 }

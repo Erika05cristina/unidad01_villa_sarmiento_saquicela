@@ -7,9 +7,9 @@ package com.mycompany.unidad01_villa_sarmiento_saquicela;
 public class Unidad01_villa_sarmiento_saquicela {
 
     public static void main(String[] args) {
-        System.out.println("Unidad 01");
+        System.out.println("   Unidad 01");
         /*----*/
-        Personas persona1 = new Personas();
+       /* Personas persona1 = new Personas();
         Personas persona2 = new Personas();
         Personas persona3 = new Personas();
 
@@ -24,6 +24,7 @@ public class Unidad01_villa_sarmiento_saquicela {
         Autos auto1 = new Autos();
         Autos auto2 = new Autos();
         Autos auto3 = new Autos();
+        */
 
         /*----*/
  /*

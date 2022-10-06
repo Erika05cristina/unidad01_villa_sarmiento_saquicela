@@ -10,7 +10,8 @@ package com.mycompany.unidad01_villa_sarmiento_saquicela;
  * @author Kristina
  */
 public class Computadoras {
+    /*
     String marca;
     String modelo;
-    int capacidad;
+    int capacidad;*/
 }

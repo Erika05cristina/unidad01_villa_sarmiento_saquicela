@@ -7,8 +7,9 @@ package com.mycompany.unidad01_villa_sarmiento_saquicela;
 
 
 public class Perros {
+    /*
     String nombre;
     int edad;
     String raza;
-          
+    */
 }
